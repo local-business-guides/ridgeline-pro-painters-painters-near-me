@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/ridgeline-pro-painters-painters-near-me/sitemap.xml
